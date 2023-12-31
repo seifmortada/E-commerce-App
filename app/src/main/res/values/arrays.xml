@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/arrays.xml -->
+
+<resources>
+    <array name="spinner_items">
+        <item>S (36)</item>
+        <item>M (40)</item>
+        <item>L (44)</item>
+        <item>XL(48)</item>
+        <!-- Add more items as needed -->
+    </array>
+</resources>

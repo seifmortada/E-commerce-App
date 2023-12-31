@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="itemGray">#BAB9B9</color>
+    <color name="redFavoruite">#BD0808</color>
+    <color name="greenCart">#4FE824</color>
+</resources>
